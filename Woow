@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF: -1 tvg-name="AMC HD" tvg-logo="https://acstatic.co/logos/canais/amc.png" group-title="Canais | Filmes e Séries", AMC HD
+http://acsa.ws:80/570768/6KXgA5/71770.ts
+#EXTINF: -1 tvg-name="AMC SD" tvg-logo="https://acstatic.co/logos/canais/amc.png" group-title="Canais | Filmes e Séries", AMC SD
+http://acsa.ws:80/570768/6KXgA5/71771.ts
+#EXTINF: -1 tvg-name="AXN FHD" tvg-logo="https://acstatic.co/logos/canais/axn.png" group-title="Canais | Filmes e Séries", AXN FHD
+http://acsa.ws:80/570768/6KXgA5/71781.ts
+#EXTINF: -1 tvg-name="AXN FHD [H265]" tvg-logo="https://acstatic.co/logos/canais/axn.png" group-title="Canais | Filmes e Séries", AXN FHD [H265]
+http://acsa.ws:80/570768/6KXgA5/71782.ts
+#EXTINF: -1 tvg-name="AXN HD" tvg-logo="https://acstatic.co/logos/canais/axn.png" group-title="Canais | Filmes e Séries", AXN HD
+http://acsa.ws:80/570768/6KXgA5/71783.ts
+#EXTINF: -1 tvg-name="AXN SD" tvg-logo="https://acstatic.co/logos/canais/axn.png" group-title="Canais | Filmes e Séries", AXN SD
+http://acsa.ws:80/570768/6KXgA5/71784.ts
